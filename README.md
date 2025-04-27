@@ -26,7 +26,7 @@ Semua proses dilakukan secara lokal tanpa bergantung pada layanan cloud.
 
 1. Download atau clone repository ini ke komputer kamu menggunakan VSCode:
 ```bash
-git clone https://github.com/username/FaceDetection-Recognition.git
+git clone https://github.com/athayanaura/FaceDetection-Recognition.git
 cd FaceDetection-Recognition
 ```
 
