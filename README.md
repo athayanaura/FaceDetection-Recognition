@@ -75,7 +75,8 @@ python face_detection_recognition_cv.py
 - Visualisasi Eigenfaces setelah training.
 - Real-time bounding box di wajah dengan nama prediksi dan skor.
 
-(Tambahkan screenshot hasil deteksi di sini jika perlu)
+![image](https://github.com/user-attachments/assets/52002fa2-a9ca-4621-a539-36aeb7b6bb07)
+
 
 ---
 
