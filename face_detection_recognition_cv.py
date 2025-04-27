@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """Computer Vision Tutorial #1 - Face Detection & Recognition
 
-Tutorial #1 - Computer Vision (Face Detection and Recognition)
-
 Nama : Athaya Naura Khalilah
 NIM : 23/512716/PA/21899
+
+Original file is located at
+    https://colab.research.google.com/drive/1_OIbqV7N3v7qAwQyEUftWKBWDQjUl0js
 """
 
 import os
